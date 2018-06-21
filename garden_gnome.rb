@@ -7,3 +7,5 @@ class Garden Gnome
   end
   
 end
+
+
