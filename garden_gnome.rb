@@ -4,3 +4,4 @@ class Garden Gnome
   def initialize(name, age)
     @name
     @age
+  end
