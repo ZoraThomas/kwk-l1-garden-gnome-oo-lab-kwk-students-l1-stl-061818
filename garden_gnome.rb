@@ -5,7 +5,7 @@ class GardenGnome
     @name
     @age
     @gluten_allergy
-    @personality
+    @personality = "evil"
   end
   
 end
