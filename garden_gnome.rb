@@ -4,6 +4,8 @@ class GardenGnome
   def initialize(name, age, gluten_allergy, personality)
     @name
     @age
+    @gluten_allergy
+    @personality
   end
   
 end
