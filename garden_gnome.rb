@@ -8,4 +8,4 @@ class GardenGnome
   
 end
 
-GardenGnome1 = 
+GardenGnome1 = GardenGnome
