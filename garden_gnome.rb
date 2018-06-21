@@ -5,3 +5,5 @@ class Garden Gnome
     @name
     @age
   end
+  
+end
